@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040663274514",
+    "project_id": "chatapplication-f0560",
+    "storage_bucket": "chatapplication-f0560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040663274514:android:b93940507cdf76673ca4cb",
+        "android_client_info": {
+          "package_name": "eu.udemytutorials.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040663274514-1do2vvdgub2iadhg788nn7n0dfhppato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4Ib1p1TTyKAI_wzwbuALfaGRM7nTLFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040663274514-1do2vvdgub2iadhg788nn7n0dfhppato.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
